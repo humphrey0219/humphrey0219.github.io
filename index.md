@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+# 李年军的个人主页
 
-You can use the [editor on GitHub](https://github.com/humphrey0219/humphrey0219.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## 关于我
+我是一个IT程序员，
+有点钻牛角尖，
+不擅长交际，
+但是为人很善良。
+你待我好，我一定也待你好。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## 目标
+18年目标能跑600公里，3万个俯卧撑。
+18年能做好两个项目，帮助公司，帮助行业创造一定价值。
+今年再学习一种语言，比如R，python.
+13年~17年，我很穷很穷.希望18年，19年情况能变好一点 ：）
 
-### Markdown
+## 技能
+熟悉java后端开发，
+有较多java项目管理经验
+熟悉设计模式
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/humphrey0219/humphrey0219.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
